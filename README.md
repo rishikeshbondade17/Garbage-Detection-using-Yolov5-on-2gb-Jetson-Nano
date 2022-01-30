@@ -1,5 +1,5 @@
 
-# Garbage Detection on Yolov5 using Jetson Nano 2gb Developer Kit.
+# Garbage Detection using Yolov5 on Jetson Nano 2gb Developer Kit.
 
 Garbage detection system which will detect objects based on whether it is
 plastic waste or plastics or just garbage.
