@@ -174,10 +174,10 @@ approximately 91%.
 ### Setup
 
 
-<img src="https://github.com/rishikeshbondade17/Garbage_Detection-using-Jetson-Nano/blob/main/Jetson_nano_setup/jetson_nano.jpg" alt="Demo1" width="400" height="300">
-<img src="https://github.com/rishikeshbondade17/Garbage_Detection-using-Jetson-Nano/blob/main/Jetson_nano_setup/jetson_nano0.jpg" alt="Demo2" width="400" height="300">
-<img src="https://github.com/rishikeshbondade17/Garbage_Detection-using-Jetson-Nano/blob/main/Jetson_nano_setup/jetson_nano1.jpg" alt="Demo3" width="400" height="300">
-<img src="https://github.com/rishikeshbondade17/Garbage_Detection-using-Jetson-Nano/blob/main/Jetson_nano_setup/jetson_nano2.jpg" alt="Demo4" width="400" height="300">
+<img src="https://github.com/rishikeshbondade17/Garbage-Detection-using-Yolov5-on-2gb-Jetson-Nano/blob/main/Jetson_nano_setup/jetson_nano.jpg" alt="Demo1" width="400" height="300">
+<img src="https://github.com/rishikeshbondade17/Garbage-Detection-using-Yolov5-on-2gb-Jetson-Nano/blob/main/Jetson_nano_setup/jetson_nano0.jpg" alt="Demo2" width="400" height="300">
+<img src="https://github.com/rishikeshbondade17/Garbage-Detection-using-Yolov5-on-2gb-Jetson-Nano/blob/main/Jetson_nano_setup/jetson_nano1.jpg" alt="Demo3" width="400" height="300">
+<img src="https://github.com/rishikeshbondade17/Garbage-Detection-using-Yolov5-on-2gb-Jetson-Nano/blob/main/Jetson_nano_setup/jetson_nano2.jpg" alt="Demo4" width="400" height="300">
 
 ## Installation
 
